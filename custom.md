@@ -17,3 +17,6 @@ kubectl logs gp3-username
 kubectl apply -f pytorch-training.yaml
 
 kubectl delete -f gp3-hgrabski
+
+kubectl exec -it ollama-madhirar -- /bin/bash
+
