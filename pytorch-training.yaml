@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: gp3-username
+  name: gp3-hgrabski
 spec:
   affinity:
     nodeAffinity:

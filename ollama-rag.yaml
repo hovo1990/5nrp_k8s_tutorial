@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: ollama-username
+  name: ollama-hgrabski
 spec:
   affinity:
     nodeAffinity:
